@@ -1,7 +1,7 @@
 ### 👋 Hey there, I'm Cody! 😄
 
 - 😍 I enjoy solving problems, building applications, playing piano & badminton
-- 🌱 I’m currently learning TypeScript, React Native, Jest, & Next.js
+- 🌱 I’m currently learning React Native, & Next.js
 - 🤔 I’m looking for software engineering job opportunities 
 - 📫 How to reach me: codyszet@gmail.com
 - 😄 Pronouns: he/him/his
@@ -29,3 +29,6 @@
 <a href="https://aws.amazon.com/" title="AWS"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="21px" height="21px"></a>
 <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
 <a href="https://www.nginx.com/" title="nginx"><img src="https://github.com/get-icon/geticon/raw/master/icons/nginx-icon.svg" alt="nginx" width="21px" height="21px"></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript.svg" alt="TypeScript" width="21px" height="21px"></a>
+<a href="https://jestjs.io/" title="Jest"><img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="21px" height="21px"></a>
+
