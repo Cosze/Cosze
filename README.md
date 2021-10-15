@@ -1,7 +1,7 @@
 ### 👋 Hey there, I'm Cody! 😄
 
 - 😍 I enjoy solving problems, building applications, playing piano & badminton
-- 🌱 I’m currently learning React Native, & Next.js
+- 🌱 I’m currently learning Next.js, GraphQL, & React Native
 - 🤔 I’m looking for software engineering job opportunities 
 - 📫 How to reach me: codyszet@gmail.com
 - 😄 Pronouns: he/him/his
