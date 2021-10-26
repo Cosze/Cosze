@@ -1,7 +1,7 @@
 ### 👋 Hey there, I'm Cody! 😄
 
 - 😍 I enjoy solving problems, building applications, playing piano & badminton
-- 🌱 I’m currently learning Next.js, GraphQL, & React Native
+- 🌱 I’m currently learning GraphQL, Kubernetes, & React Native
 - 🤔 I’m looking for software engineering job opportunities 
 - 📫 How to reach me: codyszet@gmail.com
 - 😄 Pronouns: he/him/his
@@ -31,4 +31,4 @@
 <a href="https://www.nginx.com/" title="nginx"><img src="https://github.com/get-icon/geticon/raw/master/icons/nginx-icon.svg" alt="nginx" width="21px" height="21px"></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript.svg" alt="TypeScript" width="21px" height="21px"></a>
 <a href="https://jestjs.io/" title="Jest"><img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="21px" height="21px"></a>
-
+<a href="https://nextjs.org/" title="Next"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs.svg" alt="Next" width="21px" height="21px"></a>
