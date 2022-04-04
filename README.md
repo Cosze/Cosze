@@ -2,8 +2,6 @@
 
 - 😍 I enjoy solving problems, building applications, playing piano & badminton
 - 🌱 I’m currently learning EmberJS & Java w/ Play
-- 🤔 I’m looking for software engineering job opportunities 
-- 📫 How to reach me: codyszet@gmail.com
 - 😄 Pronouns: he/him/his
 
 ### Languages & Tools
